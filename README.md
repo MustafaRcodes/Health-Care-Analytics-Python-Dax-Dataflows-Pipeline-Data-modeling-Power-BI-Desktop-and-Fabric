@@ -4,6 +4,8 @@ Data source: SyntheaTM or SyntheticMass as: Jason Walonoski, Mark Kramer, Joseph
 
 <img width="705" alt="Data Modeling" src="https://github.com/user-attachments/assets/fca4acb3-b1cf-4072-bfee-c593f2605fce">
 
+Live Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiODhmZDZiZWQtZjRjNi00MWI3LTgxNTgtYmY1M2E4OGIyMTdkIiwidCI6IjUyZWY0YTFlLWE0MjQtNDUyZC05NDcwLTZkYTljN2M3OTJiMSJ9
+
 Objective:
 
 The objective of this project is to determine how to maximize hospital capacity and allocate resources effectively, which could result in saving lives and optimizing operating expenses.
@@ -27,3 +29,11 @@ Insights and Recommendations:
 ·      Native and Black patients spend more on healthcare compared to White and Asian patients. The data suggests that Native and Black patients require more critical care and procedures, while White and Asian patients spend significantly less on healthcare.
 
 ·      Out of 27,891 patients, 15,817 (57%) are from Boston. The recommendation is to allocate more ambulances and resources to this region due to the high demand for healthcare services.
+
+<img width="752" alt="image" src="https://github.com/user-attachments/assets/2704bbd2-e95d-4e1a-bfab-1ab580a0969f">
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/9aac2eee-524a-48d0-bbe8-5679f3a6ea3e">
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/be01b46e-8db6-4366-abba-8c10a54d50b2">
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/b985df62-75e2-43c6-b132-46beea26aa63">
+
+
+
