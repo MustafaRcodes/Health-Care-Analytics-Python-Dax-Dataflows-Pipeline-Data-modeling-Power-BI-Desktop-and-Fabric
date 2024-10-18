@@ -8,7 +8,7 @@ Live Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiODhmZDZiZWQtZjRjNi0
 
 DataFlow pipeline
 
-<img width="776" alt="image" src="https://github.com/user-attachments/assets/a9baca74-261b-43ee-ada8-4e60fef9c807">
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/5f07adc8-2af1-4a2e-b239-f1350bd90660">
 
 
 
