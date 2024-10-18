@@ -6,6 +6,11 @@ Live Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiODhmZDZiZWQtZjRjNi0
 
 <img width="705" alt="Data Modeling" src="https://github.com/user-attachments/assets/fca4acb3-b1cf-4072-bfee-c593f2605fce">
 
+DataFlow pipeline
+
+<img width="776" alt="image" src="https://github.com/user-attachments/assets/a9baca74-261b-43ee-ada8-4e60fef9c807">
+
+
 
 Objective:
 
